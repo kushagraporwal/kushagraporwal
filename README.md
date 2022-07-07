@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Kushagra Porwal , Competitive Programmer 👨‍💻 and MERN Stack Developer 🚀 from India. I am an enthusiastic coder and I love coding. 👋
 
 <!--
 **kushagraporwal/kushagraporwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
